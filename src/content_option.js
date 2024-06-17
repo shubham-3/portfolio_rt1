@@ -79,7 +79,7 @@ const dataportfolio = [
     },
     {
         img: require("./assets/images/img_3.png"), // Adjust the path to match your project's structure
-        title: "Engagement Analyzer",
+        title: "Notes Maker",
         description: " Developed a app for making notes using html,css and javascript.",
         link: "https://github.com/shubham-3/notesapp_js", // Replace with actual link
       },
